@@ -2,10 +2,10 @@ plugins {
   id 'com.android.application'
 }
 android {
-  namespace 'com.wevlo.javaapp'
+  namespace 'com.wevlo.androidapp'
   compileSdk 34
   defaultConfig {
-    applicationId "com.wevlo.javaapp"
+    applicationId "com.wevlo.androidapp"
     minSdk 24
     targetSdk 34
     versionCode 1
